@@ -1,0 +1,5 @@
+load_from:
+  - python_file:
+      relative_path: weibull_definitions.py
+      location_name: weibull_analysis
+      executable_path: /home/pybokeh/envs/analytics_dev/bin/python
